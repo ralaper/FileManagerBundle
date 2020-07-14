@@ -1,5 +1,5 @@
 {
-  "name": "artgris/filemanager-bundle",
+  "name": "ralaper/filemanager-bundle",
   "type": "symfony-bundle",
   "description": "FileManager is a simple Multilingual File Manager Bundle for Symfony",
   "keywords": [
@@ -7,12 +7,12 @@
     "bundle",
     "file manager"
   ],
-  "homepage": "https://github.com/artgris/FileManagerBundle",
+  "homepage": "https://github.com/ralaper/FileManagerBundle",
   "license": "MIT",
   "authors": [
     {
-      "name": "Arthur Gribet",
-      "email": "a.gribet@gmail.com"
+      "name": "Ricco",
+      "email": "ps@hnfeitu.com"
     }
   ],
   "require": {
